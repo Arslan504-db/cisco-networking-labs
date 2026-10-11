@@ -57,13 +57,19 @@ ZPF / IPS / AAA  |  DHCP           |  Port Security
 ### VLAN и транкинг
 ![VLAN](https://raw.githubusercontent.com/Arslan504-db/cisco-networking-labs/main/screenshot_vlan.png)
 
-### ACL (списки контроля доступа)
+### ACL — конфигурация
 ![ACL](https://raw.githubusercontent.com/Arslan504-db/cisco-networking-labs/main/screenshot_acl.png)
 
-### NAT (преобразование адресов)
+### ACL — результат работы
+![ACL Results](https://raw.githubusercontent.com/Arslan504-db/cisco-networking-labs/main/screenshot_acl_results.png)
+
+### ACL — расширенный (Extended 199)
+![ACL Extended](https://raw.githubusercontent.com/Arslan504-db/cisco-networking-labs/main/screenshot_acl_extended.png)
+
+### NAT — трансляция адресов
 ![NAT](https://raw.githubusercontent.com/Arslan504-db/cisco-networking-labs/main/screenshot_nat.png)
 
-### IPsec VPN (site-to-site туннель)
+### IPsec VPN — активный туннель
 ![VPN](https://raw.githubusercontent.com/Arslan504-db/cisco-networking-labs/main/screenshot_vpn.png)
 
 ## 📚 Что я узнал
