@@ -63,7 +63,7 @@ ZPF / IPS / AAA  |  DHCP           |  Port Security
 ### NAT (преобразование адресов)
 ![NAT](https://raw.githubusercontent.com/Arslan504-db/cisco-networking-labs/main/screenshot_nat.png)
 
-### IPsec VPN
+### IPsec VPN (site-to-site туннель)
 ![VPN](https://raw.githubusercontent.com/Arslan504-db/cisco-networking-labs/main/screenshot_vpn.png)
 
 ## 📚 Что я узнал
